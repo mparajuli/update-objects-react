@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./MyComponent.css"; // Import the CSS file
+import "./MyComponent.css";
 
 function MyComponent() {
   const [cars, setCars] = useState([]);
